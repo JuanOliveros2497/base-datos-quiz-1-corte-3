@@ -5,3 +5,6 @@
 - [role] rol(name)
 - [module] modulo(name)
 - [view] vista [name]
+
+# Resultado
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](C:\Users\Juan Esteban\Documents\GitHub\BaseDeDatos_Github\base-datos-quiz-1-corte-3\caso-1)
